@@ -1,0 +1,9 @@
+{
+  "name": "weather-lit-fe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "ISC",
+  "dependencies": {
+    "lit-html": "~1.2.1"
+  }
+}
